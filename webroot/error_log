@@ -1,0 +1,42 @@
+[11-Aug-2014 21:59:27 America/Denver] PHP Parse error:  syntax error, unexpected ''Zona'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/unocdcom/unocdcomapp/Controller/AppController.php on line 335
+[18-Aug-2014 20:57:03 America/Denver] PHP Parse error:  syntax error, unexpected '' => 1,' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/unocdcom/unocdcomapp/Controller/PedidosController.php on line 387
+[23-Aug-2014 12:10:36 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home2/unocdcom/unocdcomapp/Controller/AdministradoresController.php on line 143
+[23-Aug-2014 12:15:11 America/Denver] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home2/unocdcom/unocdcomapp/Controller/AdministradoresController.php on line 140
+[23-Aug-2014 15:02:34 America/Denver] PHP Parse error:  syntax error, unexpected 'cliente' (T_STRING), expecting ']' in /home2/unocdcom/unocdcomapp/Controller/ProductosController.php on line 170
+[23-Aug-2014 15:53:24 America/Denver] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home2/unocdcom/unocdcomapp/Controller/AppController.php on line 120
+[23-Aug-2014 15:53:48 America/Denver] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home2/unocdcom/unocdcomapp/Controller/AppController.php on line 120
+[23-Aug-2014 15:54:07 America/Denver] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home2/unocdcom/unocdcomapp/Controller/AppController.php on line 120
+[23-Aug-2014 15:54:22 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/unocdcom/unocdcomapp/Controller/AppController.php on line 121
+[29-Aug-2014 20:25:56 America/Denver] PHP Fatal error:  Call to undefined method AdministradoresController::__checkImageExists() in /home2/unocdcom/unocdcomapp/Controller/AdministradoresController.php on line 238
+[29-Aug-2014 20:51:32 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/unocdcom/etc/lib/Cake/Utility/Debugger.php on line 815
+[29-Aug-2014 20:51:33 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 20:51:33 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 20:52:10 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/unocdcom/etc/lib/Cake/Utility/Debugger.php on line 565
+[29-Aug-2014 20:52:10 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 20:52:10 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 20:56:27 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/unocdcom/etc/lib/Cake/Utility/Debugger.php on line 493
+[29-Aug-2014 20:56:27 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 20:56:27 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 21:01:52 America/Denver] PHP Fatal error:  Allowed memory size of 545259520 bytes exhausted (tried to allocate 766305 bytes) in /home2/unocdcom/etc/lib/Cake/Utility/String.php on line 243
+[29-Aug-2014 21:01:52 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 21:01:52 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 21:06:10 America/Denver] PHP Fatal error:  Allowed memory size of 545259520 bytes exhausted (tried to allocate 766305 bytes) in /home2/unocdcom/etc/lib/Cake/Utility/String.php on line 243
+[29-Aug-2014 21:06:10 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 21:06:10 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 21:12:26 America/Denver] PHP Parse error:  syntax error, unexpected 'endfor' (T_ENDFOR) in /home2/unocdcom/unocdcomapp/View/Administradores/reporte_nofoto.ctp on line 154
+[29-Aug-2014 21:20:49 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/unocdcom/etc/lib/Cake/Utility/Debugger.php on line 530
+[29-Aug-2014 21:20:49 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 21:20:49 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 21:26:59 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/unocdcom/etc/lib/Cake/Utility/Debugger.php on line 551
+[29-Aug-2014 21:26:59 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 21:26:59 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 21:29:05 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/unocdcom/etc/lib/Cake/Utility/Debugger.php on line 493
+[29-Aug-2014 21:29:05 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 21:29:05 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 21:34:03 America/Denver] PHP Fatal error:  Allowed memory size of 545259520 bytes exhausted (tried to allocate 470013 bytes) in /home2/unocdcom/etc/lib/Cake/Utility/String.php on line 243
+[29-Aug-2014 21:34:03 America/Denver] PHP Notice:  Undefined variable: notificaciones in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 50
+[29-Aug-2014 21:34:03 America/Denver] PHP Notice:  Undefined variable: ncliLogedInn in /home2/unocdcom/unocdcomapp/View/Layouts/default.ctp on line 56
+[29-Aug-2014 22:34:51 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/unocdcom/unocdcomapp/Controller/AdministradoresController.php on line 258
+[29-Aug-2014 22:42:14 America/Denver] PHP Fatal error:  Call to a member function find() on a non-object in /home2/unocdcom/unocdcomapp/Controller/AdministradoresController.php on line 268
+[30-Aug-2014 18:33:22 America/Denver] PHP Fatal error:  Unsupported operand types in /home2/unocdcom/unocdcomapp/View/Administradores/reporte_excel.ctp on line 74
+[08-Sep-2014 05:51:45 America/Denver] PHP Parse error:  syntax error, unexpected '$actualizacion' (T_VARIABLE), expecting ',' or ';' in /home2/unocdcom/unocdcomapp/View/Productos/inventario.ctp on line 520
